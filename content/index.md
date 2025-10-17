@@ -12,7 +12,7 @@ Satu tempat untuk semua panduan, SOP, dan basis pengetahuan Himpunan Mahasiswa T
   ---
   color: neutral
   size: xl
-  to: en/getting-started/installation
+  to: getting-started/introduction
   trailing-icon: i-lucide-arrow-right
   ---
   Get started
@@ -24,8 +24,6 @@ Satu tempat untuk semua panduan, SOP, dan basis pengetahuan Himpunan Mahasiswa T
   ---
   spotlight: true
   class: group col-span-full items-center justify-center
-  target: _blank
-  to: https://nuxt.com
   ---
 
   #title
@@ -39,7 +37,7 @@ Satu tempat untuk semua panduan, SOP, dan basis pengetahuan Himpunan Mahasiswa T
     spotlight: true
     class: group col-span-2 lg:col-span-1
     target: _blank
-    to: https://nuxt.com
+    to: /panduan-anggota/registrasi-akun
     ---
       :::::floating-nuxt
       :::::
@@ -67,7 +65,7 @@ Satu tempat untuk semua panduan, SOP, dan basis pengetahuan Himpunan Mahasiswa T
     #description
     Standar Operasional Prosedur (SOP) lengkap untuk merencanakan, mengajukan, dan melaksanakan program kerja himpunan.
     ::::
-    
+
     ::::u-page-card
     ---
     spotlight: true
