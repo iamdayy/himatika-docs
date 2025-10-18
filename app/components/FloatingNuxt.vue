@@ -1,11 +1,11 @@
 <template>
   <div class="flex-1 flex items-center justify-center">
     <NuxtImg
-      src="/landing/nuxt-logo-3D.svg"
-      class="h-42 floating-logo"
-      alt="Nuxt 3D Logo"
+    class="h-42 floating-logo"
+    :src="img"
+    :alt="alt"
     />
-    <UIcon name="solar:arrow"></UIcon>
+    <UIcon name=""></UIcon>
   </div>
 </template>
 
@@ -19,4 +19,15 @@
 </style>
 
 <script setup lang="ts">
+
+defineProps({
+  img: {
+    type: String,
+    required: true,
+  },
+  alt: {
+    type: String,
+    required: true,
+  }
+})
 </script>

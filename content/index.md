@@ -15,7 +15,7 @@ Satu tempat untuk semua panduan, SOP, dan basis pengetahuan Himpunan Mahasiswa T
   to: getting-started/introduction
   trailing-icon: i-lucide-arrow-right
   ---
-  Get started
+  Mulai Jelajahi
   :::
 ::
 
@@ -36,51 +36,61 @@ Satu tempat untuk semua panduan, SOP, dan basis pengetahuan Himpunan Mahasiswa T
     ---
     spotlight: true
     class: group col-span-2 lg:col-span-1
-    target: _blank
     to: /panduan-anggota/registrasi-akun
     ---
       :::::floating-nuxt
+      ---
+      img: '/logo.png'
+      alt: Logo HIMATIKA
+      ---
       :::::
     
     #title
     📚 Panduan Anggota
     
     #description
-    Semua yang perlu diketahui oleh anggota baru dan lama. Mulai dari alur pendaftaran, struktur organisasi, hingga budaya kerja.
+    Semua yang perlu diketahui oleh anggota baru dan lama. Mulai dari alur pendaftaran, panduan dasbor, hingga tentang profil dan pengaturan akun.
     ::::
 
     ::::u-page-card
     ---
     spotlight: true
     class: group col-span-2 lg:col-span-1
-    target: _blank
-    to: https://nuxt.com
+    to: /getting-started/agenda
     ---
       :::::floating-nuxt
+      ---
+      img: /agenda.png
+      alt: Agenda HIMATIKA
+      ---
       :::::
     
     #title
-    ⚙️ Pedoman Kegiatan
+    ⚙️ Pedoman Agenda
     
     #description
-    Standar Operasional Prosedur (SOP) lengkap untuk merencanakan, mengajukan, dan melaksanakan program kerja himpunan.
+    Panduan lengkap mengenai tata cara pembuatan, pendaftaran, dan pengelolaan agenda kegiatan HIMATIKA.
     ::::
 
     ::::u-page-card
     ---
     spotlight: true
     class: group col-span-2 lg:col-span-1
-    target: _blank
-    to: https://nuxt.com
+    to: /getting-started/proyek
     ---
       :::::floating-nuxt
+      ---
+      img: /project.png
+      alt: Proyek HIMATIKA
+      ---
       :::::
     
     #title
-    ⚙️ Pedoman Kegiatan
+    ⚙️ Pedoman Proyek
     
     #description
-    Standar Operasional Prosedur (SOP) lengkap untuk merencanakan, mengajukan, dan melaksanakan program kerja himpunan.
+    Panduan lengkap mengenai cara mengajukan proyek karyamu, bagaimana ia di tampilkan, dan bagaimana ia dapat memberikan dampak positif bagi HIMATIKA.
+
     ::::
   :::
 ::
