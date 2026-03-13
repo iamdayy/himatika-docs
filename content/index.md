@@ -76,7 +76,7 @@ Satu tempat untuk semua panduan, SOP, dan basis pengetahuan Himpunan Mahasiswa T
     ---
     spotlight: true
     class: group col-span-2 lg:col-span-1
-    to: /getting-started/proyek
+    to: /getting-started/projects
     ---
       :::::floating-nuxt
       ---
