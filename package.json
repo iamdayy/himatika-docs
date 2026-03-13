@@ -8,6 +8,7 @@
     "@nuxt/content": "^3.7.1",
     "better-sqlite3": "^12.2.0",
     "docus": "latest",
-    "nuxt": "^4.1.2"
+    "nuxt": "^4.1.2",
+    "nuxt-llms": "^0.2.0"
   }
 }
