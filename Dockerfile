@@ -1,3 +1,5 @@
+# ⚠️ DEPRECATED: This Dockerfile is NOT used in production.
+# Production deployment uses Vercel. Kept for local development reference only.
 # Build stage
 FROM node:20-alpine AS builder
 
