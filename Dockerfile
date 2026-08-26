@@ -1,21 +1,20 @@
 # ⚠️ DEPRECATED: This Dockerfile is NOT used in production.
 # Production deployment uses Vercel. Kept for local development reference only.
 # Build stage
-FROM node:20-alpine AS builder
+FROM oven/bun:1-alpine AS builder
 
 # Set working directory
 WORKDIR /app
 
-# Install dependencies using npm
-# We copy package.json and package-lock.json first to leverage Docker cache
-COPY package*.json ./
-RUN npm install
+# Install dependencies using bun
+COPY package.json bun.lock ./
+RUN bun install --frozen-lockfile
 
 # Copy the rest of the application files
 COPY . .
 
 # Build the Nuxt application
-RUN npm run build
+RUN bun run build
 
 # Production stage
 FROM node:20-alpine
@@ -24,7 +23,6 @@ FROM node:20-alpine
 WORKDIR /app
 
 # Copy only the necessary files from the builder stage
-# Nuxt 3/4 builds everything needed for production into the .output folder
 COPY --from=builder /app/.output ./.output
 
 # Set default environment variables
