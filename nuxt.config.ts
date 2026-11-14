@@ -1,6 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   modules: ["@nuxt/content","nuxt-llms"],
+  css: ["~/assets/main.css"],
   site: {
     name: 'Dokumentasi Resmi Situs Resmi HIMATIKA',
     description: 'Himpunan Mahasiswa Informatika'

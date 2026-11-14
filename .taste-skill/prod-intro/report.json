@@ -1,0 +1,1306 @@
+{
+ "url": "http://localhost:3100/getting-started/introduction",
+ "at": "2026-11-14T19:07:01.970Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    0.41,
+    0.25,
+    0.18
+   ],
+   "motion": {
+    "elements": 13,
+    "css": 1,
+    "transitions": 8,
+    "scripted": 4,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 2425,
+     "screens": 2.7,
+     "words": 489,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 1,
+     "sections": 0,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Pengenalan Aplikasi",
+     "words": 2,
+     "chars": 19,
+     "lines": 1,
+     "size": 36,
+     "vw": 2.5,
+     "font": "ui-sans-serif",
+     "weight": 700,
+     "tracking": 0,
+     "leading": 1.11,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.25,
+     "top": 126,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Pengenalan Aplikasi",
+     "words": 2,
+     "lines": 1,
+     "size": 36,
+     "font": "ui-sans-serif"
+    },
+    "headings": [
+     {
+      "text": "Pengenalan Aplikasi",
+      "words": 2,
+      "chars": 19,
+      "lines": 1,
+      "size": 36,
+      "vw": 2.5,
+      "font": "ui-sans-serif",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.25,
+      "top": 126,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 1,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": null,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "ui-sans-serif",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      11,
+      12,
+      14,
+      15,
+      16,
+      18,
+      20,
+      24,
+      36
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "ui-sans-serif",
+      "size": 16,
+      "leading": 1.75,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 10.4
+     },
+     "measureChars": 64,
+     "max": {
+      "size": 36,
+      "vw": 2.5,
+      "font": "ui-sans-serif",
+      "text": "Pengenalan Aplikasi"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.04,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Memulai",
+      "above": "Pengenalan Aplikasi",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 96
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#3f3f47",
+       "share": 0.46
+      },
+      {
+       "color": "#52525c",
+       "share": 0.33
+      },
+      {
+       "color": "#18181b",
+       "share": 0.19
+      },
+      {
+       "color": "#2b7fff",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#f4f4f5",
+      "hsl": {
+       "h": 240,
+       "s": 0.05,
+       "l": 0.96
+      },
+      "fg": "#3f3f47"
+     },
+     "lowContrast": [
+      {
+       "text": "Ada pertanyaan?",
+       "ratio": 3.8,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#2b7fff",
+       "bg": "#ffffff"
+      },
+      {
+       "text": "Kunjungi halaman atau hubungi pengurus d",
+       "ratio": 3.8,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#2b7fff",
+       "bg": "#ffffff"
+      },
+      {
+       "text": "Bantuan & Kontak",
+       "ratio": 3.8,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#2b7fff",
+       "bg": "#ffffff"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 2,
+     "radius": 6,
+     "height": 32,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Search… Ctrl K",
+      "Copy page"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 8,
+     "hairlineSamples": [
+      "ul.ms-5.border-s 185px",
+      "ul.ms-5.border-s 185px",
+      "ul.ms-5.border-s 185px",
+      "div.relative.border-b 764px",
+      "hr.border-t.border-default 764px rule"
+     ],
+     "outlinedBoxes": 1,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 1,
+     "boxRadius": 8,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 64,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 2425,
+    "margins": {
+     "left": 102,
+     "right": 112
+    },
+    "sections": [],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Pengenalan Aplikasi",
+      "size": 36,
+      "top": 126,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 363,
+      "n": 11
+     },
+     {
+      "x": 588,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 12,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.13,
+    "voidBox": {
+     "x": 1140,
+     "y": 360,
+     "w": 300,
+     "h": 540
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 3,
+   "filled": [
+    0.4,
+    0.43,
+    0.24
+   ],
+   "motion": {
+    "elements": 5,
+    "css": 1,
+    "transitions": 0,
+    "scripted": 4,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 2626,
+     "screens": 2.6,
+     "words": 270,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 1,
+     "sections": 0,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Pengenalan Aplikasi",
+     "words": 2,
+     "chars": 19,
+     "lines": 1,
+     "size": 36,
+     "vw": 4.7,
+     "font": "ui-sans-serif",
+     "weight": 700,
+     "tracking": 0,
+     "leading": 1.11,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.48,
+     "top": 195,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Pengenalan Aplikasi",
+     "words": 2,
+     "lines": 1,
+     "size": 36,
+     "font": "ui-sans-serif"
+    },
+    "headings": [
+     {
+      "text": "Pengenalan Aplikasi",
+      "words": 2,
+      "chars": 19,
+      "lines": 1,
+      "size": 36,
+      "vw": 4.7,
+      "font": "ui-sans-serif",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.11,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.48,
+      "top": 195,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 1,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": null,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "ui-sans-serif",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      12,
+      14,
+      15,
+      16,
+      18,
+      20,
+      24,
+      36
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "ui-sans-serif",
+      "size": 16,
+      "leading": 1.75,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 10.4
+     },
+     "measureChars": 59,
+     "max": {
+      "size": 36,
+      "vw": 4.7,
+      "font": "ui-sans-serif",
+      "text": "Pengenalan Aplikasi"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Memulai",
+      "above": "Pengenalan Aplikasi",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 165
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#3f3f47",
+       "share": 0.56
+      },
+      {
+       "color": "#18181b",
+       "share": 0.29
+      },
+      {
+       "color": "#52525c",
+       "share": 0.11
+      },
+      {
+       "color": "#2b7fff",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#f4f4f5",
+      "hsl": {
+       "h": 240,
+       "s": 0.05,
+       "l": 0.96
+      },
+      "fg": "#3f3f47"
+     },
+     "lowContrast": [
+      {
+       "text": "Ada pertanyaan?",
+       "ratio": 3.8,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#2b7fff",
+       "bg": "#ffffff"
+      },
+      {
+       "text": "Kunjungi halaman atau hubungi pengurus d",
+       "ratio": 3.8,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#2b7fff",
+       "bg": "#ffffff"
+      },
+      {
+       "text": "Bantuan & Kontak",
+       "ratio": 3.8,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#2b7fff",
+       "bg": "#ffffff"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 6,
+     "height": 28,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Copy page"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 6,
+     "hairlineSamples": [
+      "div.relative.border-b 720px",
+      "div.pt-4.sm:pt-6 720px",
+      "hr.border-t.border-default 720px rule",
+      "hr.border-t.border-default 720px rule",
+      "div.border-default.w-full 195px rule"
+     ],
+     "outlinedBoxes": 1,
+     "dashed": 1,
+     "blurred": 1,
+     "roundedBoxes": 1,
+     "boxRadius": 8,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 64,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 2626,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "main.min-h-[calc(100vh-var(--ui-header-height))]",
+      "tag": "main",
+      "top": 64,
+      "height": 2422,
+      "words": 312,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Pengenalan Aplikasi",
+       "size": 36,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer",
+      "tag": "footer",
+      "top": 2486,
+      "height": 140,
+      "words": 3,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 326,
+      "right": 326,
+      "textLeft": 326,
+      "textRight": 326,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Pengenalan Aplikasi",
+      "size": 36,
+      "top": 195,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 11
+     },
+     {
+      "x": 249,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 12,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.46,
+    0.63,
+    0.51,
+    0.32,
+    0.3
+   ],
+   "motion": {
+    "elements": 5,
+    "css": 1,
+    "transitions": 0,
+    "scripted": 4,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 3466,
+     "screens": 4.1,
+     "words": 270,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 1,
+     "sections": 0,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Pengenalan Aplikasi",
+     "words": 2,
+     "chars": 19,
+     "lines": 1,
+     "size": 30,
+     "vw": 7.7,
+     "font": "ui-sans-serif",
+     "weight": 700,
+     "tracking": 0,
+     "leading": 1.2,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.78,
+     "top": 179,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Pengenalan Aplikasi",
+     "words": 2,
+     "lines": 1,
+     "size": 30,
+     "font": "ui-sans-serif"
+    },
+    "headings": [
+     {
+      "text": "Pengenalan Aplikasi",
+      "words": 2,
+      "chars": 19,
+      "lines": 1,
+      "size": 30,
+      "vw": 7.7,
+      "font": "ui-sans-serif",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 179,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Selamat datang di Platform Digital HIMATIKA, sebuah ekosistem digital terintegrasi yang dirancang khusus untuk memenuhi kebutuhan mahasiswa dan pengurus Himpunan Mahasiswa Teknik Informatika ITSNU Pek",
+      "words": 25,
+      "chars": 208,
+      "lines": 9,
+      "size": 24,
+      "vw": 6.2,
+      "font": "ui-sans-serif",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 440,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Apa itu Platform HIMATIKA?",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "ui-sans-serif",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 776,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Platform ini berfungsi sebagai pusat informasi dan layanan digital bagi seluruh anggota HIMATIKA. Dari pendaftaran acara hingga pengajuan surat resmi, semua dilakukan secara paperless dan transparan d",
+      "words": 29,
+      "chars": 219,
+      "lines": 9,
+      "size": 24,
+      "vw": 6.2,
+      "font": "ui-sans-serif",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 856,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Fitur Unggulan",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "ui-sans-serif",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1192,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Persiapan Awal",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "ui-sans-serif",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2161,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Langkah Berikutnya",
+      "words": 2,
+      "chars": 18,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "ui-sans-serif",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.33,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2598,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 9,
+     "over2Lines": 2,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "ui-sans-serif",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      12,
+      14,
+      15,
+      16,
+      18,
+      20,
+      24,
+      30
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "ui-sans-serif",
+      "size": 16,
+      "leading": 1.75,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 10.4
+     },
+     "measureChars": 28,
+     "max": {
+      "size": 30,
+      "vw": 7.7,
+      "font": "ui-sans-serif",
+      "text": "Pengenalan Aplikasi"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "Memulai",
+      "above": "Pengenalan Aplikasi",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 149
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#3f3f47",
+       "share": 0.56
+      },
+      {
+       "color": "#18181b",
+       "share": 0.29
+      },
+      {
+       "color": "#52525c",
+       "share": 0.11
+      },
+      {
+       "color": "#2b7fff",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#f4f4f5",
+      "hsl": {
+       "h": 240,
+       "s": 0.05,
+       "l": 0.96
+      },
+      "fg": "#3f3f47"
+     },
+     "lowContrast": [
+      {
+       "text": "Ada pertanyaan?",
+       "ratio": 3.8,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#2b7fff",
+       "bg": "#ffffff"
+      },
+      {
+       "text": "Kunjungi halaman atau hubungi pengurus d",
+       "ratio": 3.8,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#2b7fff",
+       "bg": "#ffffff"
+      },
+      {
+       "text": "Bantuan & Kontak",
+       "ratio": 3.8,
+       "need": 4.5,
+       "size": 14,
+       "fg": "#2b7fff",
+       "bg": "#ffffff"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 6,
+     "height": 28,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Copy page"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 4,
+     "hairlineSamples": [
+      "div.relative.border-b 358px",
+      "div.pt-4.sm:pt-6 358px",
+      "hr.border-t.border-default 358px rule",
+      "hr.border-t.border-default 358px rule"
+     ],
+     "outlinedBoxes": 1,
+     "dashed": 1,
+     "blurred": 1,
+     "roundedBoxes": 2,
+     "boxRadius": 8,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 64,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 3466,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "main.min-h-[calc(100vh-var(--ui-header-height))]",
+      "tag": "main",
+      "top": 64,
+      "height": 3262,
+      "words": 312,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Pengenalan Aplikasi",
+       "size": 30,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer",
+      "tag": "footer",
+      "top": 3326,
+      "height": 140,
+      "words": 3,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 137,
+      "right": 137,
+      "textLeft": 137,
+      "textRight": 137,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Pengenalan Aplikasi",
+      "size": 30,
+      "top": 179,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 12
+     }
+    ],
+    "leftBlocks": 12,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "1 eyebrow/kicker label(s) above headings: \"Memulai\" above \"Pengenalan Aplikasi\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "8 thin rule(s)/divider line(s): ul.ms-5.border-s 185px | ul.ms-5.border-s 185px | ul.ms-5.border-s 185px | div.relative.border-b 764px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "1 box(es) drawn with a 1px outline.",
+   "fix": "Prefer a filled surface or no box.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "contrast",
+   "width": 1440,
+   "message": "Low-contrast text: \"Ada pertanyaan?\" 3.8:1 needs 4.5:1; \"Kunjungi halaman atau hubungi pengurus d\" 3.8:1 needs 4.5:1; \"Bantuan & Kontak\" 3.8:1 needs 4.5:1",
+   "fix": "Darken or lighten the text colour.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 0 picture(s) on the page (0 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "focal-point",
+   "width": 1440,
+   "message": "The first screen has no dominant element: the largest type is 36px (2.5vw) and no single picture holds a third of the viewport.",
+   "fix": "Make one thing lead: the headline at display size, or one large picture. A grid of many small pictures is not one thing; in blind tests jurors marked a first screen without a headline down every time. On the strongest studied sites the largest type has a median of 8.4vw."
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 13 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  },
+  {
+   "level": "WARN",
+   "id": "dashed",
+   "width": 768,
+   "message": "1 dashed/dotted border(s).",
+   "fix": "Remove unless it is a real drop zone.",
+   "alsoAt": [
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "2 headline(s) wrap past two lines at 390px: \"Selamat datang di Platform Digital HIMATIKA, seb\" → 9 lines (25 words, 24px); \"Platform ini berfungsi sebagai pusat informasi d\" → 9 lines (29 words, 24px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/home/iamdayy/codes/himatika-docs/.taste-skill/prod-intro/desktop-fold.jpg",
+   "pages": [
+    "/home/iamdayy/codes/himatika-docs/.taste-skill/prod-intro/desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/home/iamdayy/codes/himatika-docs/.taste-skill/prod-intro/tablet-fold.jpg",
+   "pages": [
+    "/home/iamdayy/codes/himatika-docs/.taste-skill/prod-intro/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/home/iamdayy/codes/himatika-docs/.taste-skill/prod-intro/mobile-fold.jpg",
+   "pages": [
+    "/home/iamdayy/codes/himatika-docs/.taste-skill/prod-intro/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
