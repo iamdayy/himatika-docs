@@ -17,8 +17,6 @@ Satu tempat untuk semua panduan, SOP, dan basis pengetahuan Himpunan Mahasiswa T
  ---
  Baca Pengenalan Aplikasi
  :::
-#default
-![Tangkapan layar dasbor anggota HIMATIKA](/dasbor/halaman-dasbor.jpeg)
 ::
 
 ::u-page-section
