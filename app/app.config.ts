@@ -1,4 +1,10 @@
 export default defineAppConfig({
+  ui: {
+    colors: {
+      primary: 'brand',
+      neutral: 'zinc',
+    },
+  },
   header: {
     // Title to display if no logo
     title: 'Himpunan Mahasiswa Informatika',
@@ -13,7 +19,7 @@ export default defineAppConfig({
   },
    assistant: {
     // Show the floating input on documentation pages
-    floatingInput: true,
+    floatingInput: false,
 
     // Show the "Explain with AI" button in the sidebar
     explainWithAi: true,

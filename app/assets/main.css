@@ -1,0 +1,90 @@
+@theme {
+  /* Palet primary custom: emerald dengan 500 lebih gelap agar link lolos WCAG AA (>=4.5:1 di putih) */
+  --color-brand-50: #ecfdf5;
+  --color-brand-100: #d1fae5;
+  --color-brand-200: #a7f3d0;
+  --color-brand-300: #6ee7b7;
+  --color-brand-400: #34d399;
+  --color-brand-500: #047857;
+  --color-brand-600: #036b4f;
+  --color-brand-700: #065f46;
+  --color-brand-800: #064e3b;
+  --color-brand-900: #022c22;
+  --color-brand-950: #022c22;
+}
+
+/* Header: jangan sticky supaya konten tidak tertutup saat scroll (covered-text) */
+header.sticky {
+  position: relative;
+  border-bottom: none;
+  background: var(--ui-bg);
+  backdrop-filter: none;
+}
+
+/* Judul hero tidak lebih dari 2 baris di mobile */
+@media (max-width: 640px) {
+  h1.text-5xl {
+    font-size: 2rem;
+    line-height: 1.15;
+  }
+}
+
+/* Teks berjalan pakai ink penuh, bukan abu soft */
+:root {
+  --ui-text-dimmed: var(--color-zinc-700);
+}
+.dark {
+  --ui-text-dimmed: var(--color-zinc-300);
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-size: 16px;
+}
+
+/* Kartu: tanpa shadow saat diam */
+div.relative.flex {
+  box-shadow: none !important;
+}
+
+/* Teks sekunder tetap terbaca (ink penuh untuk teks berjalan) */
+:root {
+  --ui-text-muted: var(--color-zinc-600);
+}
+.dark {
+  --ui-text-muted: var(--color-zinc-400);
+}
+
+/* Ukur paragraf hero agar tidak terlalu lebar */
+[class*="description"] {
+  max-width: 65ch;
+}
+
+/* Hairline di list konten dan pemisah hr dihapus */
+ul.border-s {
+  border-inline-start-width: 0;
+}
+div.relative.border-b {
+  border-bottom: none;
+}
+
+/* Sembunyikan eyebrow kategori di atas judul halaman docs */
+div[class*="mb-2.5"][class*="text-primary"] {
+  display: none;
+}
+
+/* Info lebih gelap agar teks alert soft lolos 4.5:1 */
+:root {
+  --ui-info: #0369a1;
+}
+.dark {
+  --ui-info: #38bdf8;
+}
+
+/* Hilangkan hairline hr */
+.border-t.border-default {
+  border-top: none;
+}

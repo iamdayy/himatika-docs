@@ -1,0 +1,1090 @@
+{
+ "url": "http://localhost:3000",
+ "at": "2026-11-14T19:03:00.860Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.5,
+    0.83,
+    0.4,
+    0.09
+   ],
+   "motion": {
+    "elements": 9,
+    "css": 1,
+    "transitions": 0,
+    "scripted": 8,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 3232,
+     "screens": 3.6,
+     "words": 112,
+     "img": 6,
+     "video": 0,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "halaman-dasbor.jpeg",
+      "logo.png",
+      "agenda.png",
+      "project.png"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Pusat Dokumentasi HIMATIKA",
+     "words": 3,
+     "chars": 26,
+     "lines": 1,
+     "size": 72,
+     "vw": 5,
+     "font": "ui-sans-serif",
+     "weight": 700,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.84,
+     "top": 224,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Pusat Dokumentasi HIMATIKA",
+     "words": 3,
+     "lines": 1,
+     "size": 72,
+     "font": "ui-sans-serif"
+    },
+    "headings": [
+     {
+      "text": "Pusat Dokumentasi HIMATIKA",
+      "words": 3,
+      "chars": 26,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "ui-sans-serif",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.84,
+      "top": 224,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 1,
+     "maxLines": 1,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": null,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "ui-sans-serif",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      11,
+      14,
+      15,
+      16,
+      20,
+      72
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "ui-sans-serif",
+      "size": 15,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.7
+     },
+     "measureChars": 156,
+     "max": {
+      "size": 72,
+      "vw": 5,
+      "font": "ui-sans-serif",
+      "text": "Pusat Dokumentasi HIMATIKA"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.22,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#52525c",
+       "share": 0.84
+      },
+      {
+       "color": "#18181b",
+       "share": 0.12
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      },
+      {
+       "color": "#3f3f47",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#f4f4f5",
+      "hsl": {
+       "h": 240,
+       "s": 0.05,
+       "l": 0.96
+      },
+      "fg": "#3f3f47"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 2,
+     "radius": 6,
+     "height": 32,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Search… Ctrl K",
+      "Baca Pengenalan Aplikasi"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 8,
+     "boxRadius": 8,
+     "squareMedia": 1,
+     "roundedMedia": 1,
+     "mediaRadius": 6,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 2690
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 1
+     },
+     {
+      "type": "img",
+      "ratio": 0.35
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 64,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 3232,
+    "margins": {
+     "left": 112,
+     "right": 112
+    },
+    "sections": [
+     {
+      "sel": "div.relative.isolate",
+      "tag": "div",
+      "top": 64,
+      "height": 2313,
+      "words": 26,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Pusat Dokumentasi HIMATIKA",
+       "size": 72,
+       "tag": "h1"
+      },
+      "left": 112,
+      "right": 112,
+      "textLeft": 125,
+      "textRight": 125,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.relative.isolate",
+      "tag": "section",
+      "top": 2377,
+      "height": 791,
+      "words": 99,
+      "media": 3,
+      "middle": 0,
+      "heading": null,
+      "left": 136,
+      "right": 146,
+      "textLeft": 136,
+      "textRight": 146,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 2220,
+      "height": 308
+     }
+    ],
+    "h1s": [
+     {
+      "text": "Pusat Dokumentasi HIMATIKA",
+      "size": 72,
+      "top": 224,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [],
+    "leftBlocks": 0,
+    "bodySize": 15,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.07,
+    "voidBox": {
+     "x": 0,
+     "y": 120,
+     "w": 1440,
+     "h": 60
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.52,
+    0.55,
+    0.11,
+    0.1
+   ],
+   "motion": {
+    "elements": 9,
+    "css": 1,
+    "transitions": 0,
+    "scripted": 8,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 3224,
+     "screens": 3.1,
+     "words": 109,
+     "img": 6,
+     "video": 0,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "halaman-dasbor.jpeg",
+      "logo.png",
+      "agenda.png",
+      "project.png"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Pusat Dokumentasi HIMATIKA",
+     "words": 3,
+     "chars": 26,
+     "lines": 2,
+     "size": 72,
+     "vw": 9.4,
+     "font": "ui-sans-serif",
+     "weight": 700,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.94,
+     "top": 192,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Pusat Dokumentasi HIMATIKA",
+     "words": 3,
+     "lines": 2,
+     "size": 72,
+     "font": "ui-sans-serif"
+    },
+    "headings": [
+     {
+      "text": "Pusat Dokumentasi HIMATIKA",
+      "words": 3,
+      "chars": 26,
+      "lines": 2,
+      "size": 72,
+      "vw": 9.4,
+      "font": "ui-sans-serif",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 192,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 1,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": null,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "ui-sans-serif",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      15,
+      16,
+      20,
+      72
+     ],
+     "sizeCount": 5,
+     "notLoaded": [],
+     "body": {
+      "font": "ui-sans-serif",
+      "size": 15,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.7
+     },
+     "measureChars": 90,
+     "max": {
+      "size": 72,
+      "vw": 9.4,
+      "font": "ui-sans-serif",
+      "text": "Pusat Dokumentasi HIMATIKA"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.21,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [],
+     "textColors": [
+      {
+       "color": "#52525c",
+       "share": 0.85
+      },
+      {
+       "color": "#18181b",
+       "share": 0.12
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#18181b",
+      "hsl": {
+       "h": 240,
+       "s": 0.06,
+       "l": 0.1
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 6,
+     "height": 40,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Baca Pengenalan Aplikasi"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 8,
+     "boxRadius": 8,
+     "squareMedia": 1,
+     "roundedMedia": 1,
+     "mediaRadius": 6,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 1
+     },
+     {
+      "type": "img",
+      "ratio": 0.39
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 64,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 3224,
+    "margins": {
+     "left": 24,
+     "right": 18
+    },
+    "sections": [
+     {
+      "sel": "main.min-h-[calc(100vh-var(--ui-header-height))]",
+      "tag": "main",
+      "top": 64,
+      "height": 3020,
+      "words": 125,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Pusat Dokumentasi HIMATIKA",
+       "size": 72,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 47,
+      "textRight": 47,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer",
+      "tag": "footer",
+      "top": 3084,
+      "height": 140,
+      "words": 3,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 326,
+      "right": 326,
+      "textLeft": 326,
+      "textRight": 326,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Pusat Dokumentasi HIMATIKA",
+      "size": 72,
+      "top": 192,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [],
+    "leftBlocks": 0,
+    "bodySize": 15,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.55,
+    0.36,
+    0.19,
+    0.14
+   ],
+   "motion": {
+    "elements": 9,
+    "css": 1,
+    "transitions": 0,
+    "scripted": 8,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 2600,
+     "screens": 3.1,
+     "words": 109,
+     "img": 6,
+     "video": 0,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "halaman-dasbor.jpeg",
+      "logo.png",
+      "agenda.png",
+      "project.png"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Pusat Dokumentasi HIMATIKA",
+     "words": 3,
+     "chars": 26,
+     "lines": 2,
+     "size": 32,
+     "vw": 8.2,
+     "font": "ui-sans-serif",
+     "weight": 700,
+     "tracking": -0.025,
+     "leading": 1.15,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 160,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Pusat Dokumentasi HIMATIKA",
+     "words": 3,
+     "lines": 2,
+     "size": 32,
+     "font": "ui-sans-serif"
+    },
+    "headings": [
+     {
+      "text": "Pusat Dokumentasi HIMATIKA",
+      "words": 3,
+      "chars": 26,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "ui-sans-serif",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 160,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 1,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 1,
+     "medianWords": null,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "ui-sans-serif",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      15,
+      16,
+      18,
+      32
+     ],
+     "sizeCount": 5,
+     "notLoaded": [],
+     "body": {
+      "font": "ui-sans-serif",
+      "size": 15,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.7
+     },
+     "measureChars": 43,
+     "max": {
+      "size": 32,
+      "vw": 8.2,
+      "font": "ui-sans-serif",
+      "text": "Pusat Dokumentasi HIMATIKA"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.21,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 1353,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#52525c",
+       "share": 0.85
+      },
+      {
+       "color": "#18181b",
+       "share": 0.12
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#18181b",
+      "hsl": {
+       "h": 240,
+       "s": 0.06,
+       "l": 0.1
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 1,
+     "inHero": 1,
+     "radius": 6,
+     "height": 40,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Baca Pengenalan Aplikasi"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 8,
+     "boxRadius": 8,
+     "squareMedia": 1,
+     "roundedMedia": 1,
+     "mediaRadius": 6,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 1
+     },
+     {
+      "type": "img",
+      "ratio": 0.36
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 64,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 2600,
+    "margins": {
+     "left": 16,
+     "right": 10
+    },
+    "sections": [
+     {
+      "sel": "main.min-h-[calc(100vh-var(--ui-header-height))]",
+      "tag": "main",
+      "top": 64,
+      "height": 2396,
+      "words": 125,
+      "media": 4,
+      "middle": 0,
+      "heading": {
+       "text": "Pusat Dokumentasi HIMATIKA",
+       "size": 32,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer",
+      "tag": "footer",
+      "top": 2460,
+      "height": 140,
+      "words": 3,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 137,
+      "right": 137,
+      "textLeft": 137,
+      "textRight": 137,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Pusat Dokumentasi HIMATIKA",
+      "size": 32,
+      "top": 160,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [],
+    "leftBlocks": 0,
+    "bodySize": 15,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "body-size",
+   "width": 1440,
+   "message": "Body text is 15px.",
+   "fix": "Body copy 16–20px.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "measure",
+   "width": 1440,
+   "message": "Longest paragraph runs about 156 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch).",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "dev-server",
+   "width": 1440,
+   "message": "This page is served by a development server (Vite, webpack or Next in dev mode).",
+   "fix": "Run the last gate on the production build too (vite build && vite preview, next build && next start, or the built index.html): minifiers and bundlers change the CSS a visitor receives.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "covered-text",
+   "width": 1440,
+   "message": "Large text lies under another element at some scroll position: \"Pusat Dokumentasi HIMATIKA\" (screen 1, 100% hidden)",
+   "fix": "Nothing may sit on top of a headline or statement. Move the picture, shorten the pinned run, or raise the text above it (z-index) and give it a ground.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 9 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/home/iamdayy/codes/himatika-docs/.taste-skill/after5/desktop-fold.jpg",
+   "pages": [
+    "/home/iamdayy/codes/himatika-docs/.taste-skill/after5/desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/home/iamdayy/codes/himatika-docs/.taste-skill/after5/tablet-fold.jpg",
+   "pages": [
+    "/home/iamdayy/codes/himatika-docs/.taste-skill/after5/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/home/iamdayy/codes/himatika-docs/.taste-skill/after5/mobile-fold.jpg",
+   "pages": [
+    "/home/iamdayy/codes/himatika-docs/.taste-skill/after5/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
